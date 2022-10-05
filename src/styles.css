@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  /* text-align: center; */
+  align-items: center;
+  max-width: 600px;
+  /* border: 2px solid red; */
+  margin: auto;
+  font-size: 2rem;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  text-align: center;
+  display: block;
+}
+
+#em_db {
+  cursor: pointer;
+  padding: 1.6rem;
+}
