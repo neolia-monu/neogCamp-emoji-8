@@ -52,7 +52,8 @@ const emojiDictionary = {
   "😔": "Pensive",
   "😪": "Sleepy",
   "🤤": "Drooling",
-  "😴": "Sleeping"
+  "😴": "Sleeping",
+  "MN": "Monu Neolia",
 };
 
 const emojiArr = Object.keys(emojiDictionary);
